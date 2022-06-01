@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\Jack Herer\Desktop\repos\Csharp27\MethodsPlzWork\finishedcopy.cs" Link="finishedcopy.cs" />
-  </ItemGroup>
-
 </Project>
