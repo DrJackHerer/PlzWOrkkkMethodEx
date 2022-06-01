@@ -1,0 +1,14 @@
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.csproj.AssemblyReference.cache
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.AssemblyInfoInputs.cache
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.AssemblyInfo.cs
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.csproj.CoreCompileInputs.cache
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.exe
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.deps.json
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.runtimeconfig.json
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.runtimeconfig.dev.json
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.dll
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\bin\Debug\netcoreapp3.1\Method_excorsize.pdb
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.dll
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.pdb
+C:\Users\Jack Herer\Desktop\repos\Method_excorsize\Method_excorsize\obj\Debug\netcoreapp3.1\Method_excorsize.genruntimeconfig.cache
